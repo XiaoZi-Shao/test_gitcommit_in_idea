@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3086b4da-a535-46dc-9bfe-7872c7517156" name="Default Changelist" comment="">
+    <list default="true" id="3086b4da-a535-46dc-9bfe-7872c7517156" name="Default Changelist" comment="test gitcommit in idea">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -76,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635766546806</updated>
-      <workItem from="1635766550669" duration="276000" />
+      <workItem from="1635766550669" duration="1117000" />
     </task>
     <task id="LOCAL-00001" summary="test gitcommit in idea">
       <created>1635766662684</created>
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635766662684</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test gitcommit in idea">
+      <created>1635766833982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635766833982</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,21 +103,29 @@
     <option name="LAST_COMMIT_MESSAGE" value="test gitcommit in idea" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="452" y="90" key="#Notifications" timestamp="1635767054366">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="452" y="90" key="#Notifications/0.0.1920.1032@0.0.1920.1032" timestamp="1635767054366" />
     <state x="452" y="90" key="#Project_Structure" timestamp="1635766560912">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="452" y="90" key="#Project_Structure/0.0.1920.1032@0.0.1920.1032" timestamp="1635766560912" />
-    <state x="452" y="36" key="CommitChangelistDialog2" timestamp="1635766661498">
+    <state x="452" y="36" key="CommitChangelistDialog2" timestamp="1635767069968">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="452" y="36" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1635766661498" />
+    <state x="452" y="36" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1635767069968" />
     <state x="690" y="195" key="FileChooserDialogImpl" timestamp="1635766624627">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="690" y="195" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1635766624627" />
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1635766691783">
+    <state x="330" y="71" key="SettingsEditor" timestamp="1635767677437">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1635766691783" />
+    <state x="330" y="71" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1635767677437" />
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1635767787058">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1635767787058" />
   </component>
 </project>
