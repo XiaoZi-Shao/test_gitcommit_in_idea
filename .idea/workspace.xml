@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3086b4da-a535-46dc-9bfe-7872c7517156" name="Default Changelist" comment="">
+    <list default="true" id="3086b4da-a535-46dc-9bfe-7872c7517156" name="Default Changelist" comment="test gitcommit in idea 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +17,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
@@ -76,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635766546806</updated>
-      <workItem from="1635766550669" duration="1395000" />
+      <workItem from="1635766550669" duration="1656000" />
     </task>
     <task id="LOCAL-00001" summary="test gitcommit in idea">
       <created>1635766662684</created>
@@ -99,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635767812355</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test gitcommit in idea 2">
+      <created>1635767991060</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635767991060</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,10 +132,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="452" y="90" key="#Project_Structure/0.0.1920.1032@0.0.1920.1032" timestamp="1635766560912" />
-    <state x="452" y="36" key="CommitChangelistDialog2" timestamp="1635767811641">
+    <state x="452" y="36" key="CommitChangelistDialog2" timestamp="1635768180464">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="452" y="36" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1635767811641" />
+    <state x="452" y="36" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1635768180464" />
     <state x="690" y="195" key="FileChooserDialogImpl" timestamp="1635766624627">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -131,9 +144,9 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="330" y="71" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1635767677437" />
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1635767954854">
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1635768263020">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1635767954854" />
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1635768263020" />
   </component>
 </project>
